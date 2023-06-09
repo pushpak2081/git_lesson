@@ -8,6 +8,3 @@ this is third change to file
 
 git is a version control sysytem thst prevents us from 
 having the "final doc" profiles
-
-this is a commit that i am not aware of ,or one that i have 
-forgotten about.
