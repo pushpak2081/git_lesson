@@ -6,3 +6,5 @@ tracked.
 
 this is third change to file 
 
+git is a version control sysytem thst prevents us from 
+having the "final doc" profiles
